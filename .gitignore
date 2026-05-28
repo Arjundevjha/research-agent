@@ -14,3 +14,6 @@ wheels/
 
 # Generated reports
 outputs/
+
+# macOS
+.DS_Store
