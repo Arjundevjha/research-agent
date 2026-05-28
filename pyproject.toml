@@ -1,5 +1,5 @@
 [project]
-name = "agent"
+name = "research-agent"
 version = "0.1.0"
 description = "Multi-agent research system with APA citations"
 readme = "README.md"
